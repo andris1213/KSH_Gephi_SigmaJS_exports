@@ -13,14 +13,14 @@
     "title": ""
   },
   "legend": {
-    "edgeLabel": "Test node2",
-    "colorLabel": "Test color2",
-    "nodeLabel": "Test node2"
+    "edgeLabel": "Test node3",
+    "colorLabel": "Test color3",
+    "nodeLabel": "Test node3"
   },
   "features": {
     "search": true,
     "groupSelectorAttribute": false,
-    "hoverBehavior": "default"
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
@@ -40,10 +40,10 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 3,
-      "minEdgeSize": 1,
-      "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 0.5,
+      "maxNodeSize": 9
     },
     "mouseProperties": {
       "maxRatio": 20,
